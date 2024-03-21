@@ -12,7 +12,7 @@ This repository is an implementation of GraphAdapter - [Can GNN be Good Adapter 
 * transformers >= 4.28.1 
 
 For the largest dataset Arxiv, 300G storage are required
-## Runing
+## How to use our code
 The datasets this paper used can be downloaded from [here](https://drive.google.com/drive/folders/13fqwSfY5utv8HibtEoLIAGk7k85W7b2d?usp=sharing), please download them and put them in datasets to unzip.
 
 
